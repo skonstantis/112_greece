@@ -1,0 +1,10 @@
+/* Author: Sotiris Konstantis */
+
+.nav {
+  padding: 10px;
+  background-color: rgba(7, 21, 60, 0.8);
+  display: inline-block;
+  width: 100vw;
+  box-sizing: border-box;
+  text-align: center;
+}
