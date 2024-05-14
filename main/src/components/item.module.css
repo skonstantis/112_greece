@@ -1,0 +1,14 @@
+/* Author: Sotiris Konstantis */
+
+.itemContainer {
+    display: flex;
+    padding: 10px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-bottom: 5px;
+    color: white;
+    background-color: rgba(7, 21, 60, 0.8);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    font-weight: bold;
+}

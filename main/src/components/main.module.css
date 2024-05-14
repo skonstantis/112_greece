@@ -2,11 +2,10 @@
 
 .main {
   min-height: calc(100vh - 136px);
+  max-height: calc(100vh - 136px);
   border-radius: 10px;
   display: flex;
   flex-direction: column;
-  padding: 10px;
-  background-color: rgba(7, 21, 60, 0.8);
   display: inline-block;
   width: 100vw;
   box-sizing: border-box;
@@ -16,7 +15,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 20px;
+  width: 10px;
   background: rgba(255, 255, 255, 0.15);
   border-radius: 100px;
 }
