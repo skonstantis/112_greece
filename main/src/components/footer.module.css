@@ -1,11 +1,12 @@
 /* Author: Sotiris Konstantis */
 
-.nav {
-  border-radius: 10px;
+.footer {
+  margin-top: auto;
   padding: 10px;
   background-color: rgba(7, 21, 60, 0.8);
   display: inline-block;
   width: 100vw;
   box-sizing: border-box;
   text-align: center;
+  border-radius: 10px;
 }
