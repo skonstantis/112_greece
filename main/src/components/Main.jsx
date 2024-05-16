@@ -6,7 +6,7 @@ import styles from "./main.module.css";
 
 import List from "./List";
 
-import dataArray from "../data/data.js";
+import dataArray from "../controller/data.ts";
 
 export default function Main() {
   const [data, setData] = useState(dataArray);

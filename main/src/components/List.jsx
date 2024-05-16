@@ -8,7 +8,7 @@ export default function List({ data }) {
   return (
     <div className={styles.list}>
       {data.map((alert) => (
-        <Item alert={alert} />
+        <Item key={alert.id} alert={alert} />
       ))}
     </div>
   );
