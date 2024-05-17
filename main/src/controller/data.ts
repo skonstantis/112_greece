@@ -1,23 +1,30 @@
 /* Author: Sotiris Konstantis */
 
-import Alerts from "./classes.alert.js";
-import Fire from "./enums.fire.js";
-import Flood from "./enums.flood.js";
-import Type from "./enums.type.js";
-import Prefectures from "./enums.prefectures.js";
 import provinces from "./arrays.provinces.js";
-import Provinces from "./enums.provinces.js";
+import epikratia from "./arrays.epikratia.js";
 
-//todo: import all, more prefectures and provinces
+import Alerts from "../model/classes.alert.js";
+import Fire from "../model/enums.fire.js";
+import Flood from "../model/enums.flood.js";
+import Type from "../model/enums.type.js";
+import Prefectures from "../model/enums.prefectures.js";
+import Provinces from "../model/enums.provinces.js";
+import Covid19 from "../model/enums.covid19.js"
+import Earthquake from "../model/enums.earthquake.js";
+import ExtremeWeather from "../model/enums.extremeWeather.js";
+import Volcano from "../model/enums.volcano.js";
+import Landslide from "../model/enums.landslides.js";
+import Tsunami from "../model/enums.tsunami.js";
+import Epikratia from "../model/enums.epikratia.js";
 
-console.log(provinces[Provinces.DYTIKIS_MAKEDONIAS].map((prefecture) => prefecture));
+//todo: more prefectures and provinces
 
 Alerts.add(
-  new Date("2022-03-25"),
-  [Fire[Fire.RESIDENTIAL_FIRE], Flood[Flood.RIVER_BULWARK_BREAK]],
+  new Date("2024-04-23"),
+  [Fire[Fire.WILDFIRE], Flood[Flood.RIVER_BULWARK_BREAK]],
   [Type[Type.EVACUATION], Type[Type.EXCERSISE]],
-  [...provinces[Provinces.DYTIKIS_MAKEDONIAS], Prefectures[Prefectures.ATTIKIS]],
-  "Evacuate now! This is a test.",
+  [...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS], Prefectures[Prefectures.ANATOLIKIS_ATTIKIS]],
+  "Evacuate now! This is a test. A major fire has been observed near your area. Evacuate towards the south now. Leave your belongings behind. This is a test.",
 );
 
 const dataArray = Alerts.array;

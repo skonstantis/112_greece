@@ -1,8 +1,8 @@
 /* Author: Sotiris Konstantis */
 
-import Nav from "./components/Nav";
-import Main from "./components/Main";
-import Footer from "./components/Footer";
+import Nav from "./view/Nav";
+import Main from "./view/Main";
+import Footer from "./view/Footer";
 
 import "./app.css";
 

@@ -1,0 +1,20 @@
+/* Author: Sotiris Konstantis */
+
+enum Provinces{
+    ATTIKIS,
+    STEREAS_ELLADAS,
+    KENTRIKIS_MAKEDONIAS,
+    KRITIS,
+    ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS,
+    IPIROU,
+    IONION_NISON,
+    VORIOU_EGEOU,
+    PELOPONNISOU,
+    NOTIOU_EGEOU,
+    THESSALIAS,
+    DITIKIS_ELLADAS,
+    DITIKIS_MAKEDONIAS,
+    AGIOU_OROUS
+}
+
+export default Provinces;
