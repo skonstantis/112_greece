@@ -17,15 +17,22 @@ import Landslide from "../model/enums.landslides.js";
 import Tsunami from "../model/enums.tsunami.js";
 import Epikratia from "../model/enums.epikratia.js";
 
-//todo: more prefectures and provinces
-
 Alerts.add(
   new Date("2024-04-23"),
-  [Fire[Fire.WILDFIRE], Flood[Flood.RIVER_BULWARK_BREAK]],
-  [Type[Type.EVACUATION], Type[Type.EXCERSISE]],
+  [ExtremeWeather[ExtremeWeather.EXTREMELY_HIGH_TEMPERATURES], Flood[Flood.RIVER_BULWARK_BREAK]],
+  [Type[Type.EVACUATION], Type[Type.DANGER_DIMINISHED]],
   [...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS], Prefectures[Prefectures.ANATOLIKIS_ATTIKIS]],
   "Evacuate now! This is a test. A major fire has been observed near your area. Evacuate towards the south now. Leave your belongings behind. This is a test.",
 );
+
+Alerts.add(
+  new Date("2023-04-23"),
+  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], Flood[Flood.FLOODING]],
+  [Type[Type.EVACUATION]],
+  [...provinces[Provinces.ATTIKIS]],
+  "Evacuate now! This is a test. ",
+);
+
 
 const dataArray = Alerts.array;
 export default dataArray;

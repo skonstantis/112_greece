@@ -3,6 +3,7 @@
 .itemContainer {
     display: flex;
     padding: 10px;
+    align-items: center;
     margin-left: 4px;
     margin-right: 4px;
     margin-bottom: 5px;
@@ -11,4 +12,50 @@
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
     border-radius: 8px;
     font-weight: bold;
+}
+
+.dateContainer
+{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.dateContainer p{
+    display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.prefecturesContainer{
+    height: fit-content;
+    width: 35%;
+    margin-left: 10px;
+}
+
+.categoriesContainer{
+    width: 13%;
+    height: fit-content;
+    margin-left: 10px;
+}
+
+.typeContainer{
+    width: 13%;
+    height: fit-content;
+    margin-left: 10px;
+}
+
+.textContainer{
+    width: 40%;
+}
+
+.textContainer p{
+    padding: 3px;
+    color: rgba(7, 21, 60); 
+   display: inline-block;
+    margin-left: 10px;
+    background: white;
+    border-radius: 20px;
+  font-weight: bolder;
 }
