@@ -37,7 +37,6 @@ export default function Item({ alert }) {
             <Prefecture key={prefecture} prefecture={prefecture} />
           ))}
         </div>      
-        <div className={styles.textContainer}><p>{alert.text}</p></div>
       </div>
     </div>
   );

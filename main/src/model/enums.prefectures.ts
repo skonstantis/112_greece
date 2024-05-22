@@ -1,10 +1,7 @@
 /* Author: Sotiris Konstantis */
 
 enum Prefectures {
-    ATHINON,
-    ANATOLIKIS_ATTIKIS,
-    DITIKIS_ATTIKIS,
-    PIREA,
+    ATTIKIS,
     EVIAS,
     EVRITANIAS,
     FOKIDAS,

@@ -7,10 +7,7 @@ import Epikratia from "../model/enums.epikratia.js";
 const provinces: string[][] = [];
 
 provinces[Provinces.ATTIKIS] = [
-  Prefectures[Prefectures.ATHINON],
-  Prefectures[Prefectures.ANATOLIKIS_ATTIKIS],
-  Prefectures[Prefectures.DITIKIS_ATTIKIS],
-  Prefectures[Prefectures.PIREA],
+  Prefectures[Prefectures.ATTIKIS]
 ];
 
 provinces[Provinces.STEREAS_ELLADAS] = [

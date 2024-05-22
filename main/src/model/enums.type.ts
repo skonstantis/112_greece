@@ -2,10 +2,11 @@
 
 enum Type {
   CURFEW,
-  WARNING,
   EVACUATION,
   DANGER_DIMINISHED,
-  EXCERSISE
+  EXCERSISE,
+  DANGER,
+  PROTECTION_INSTRUCTIONS,
 }
 
 export default Type;
