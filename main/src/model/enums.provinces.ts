@@ -1,6 +1,9 @@
 /* Author: Sotiris Konstantis */
 
 enum Provinces{
+    DITIKIS_STEREAS,
+    VORIOU_IONIOU,
+    NOTIOU_IONIOU,
     ATTIKIS,
     STEREAS_ELLADAS,
     KENTRIKIS_MAKEDONIAS,

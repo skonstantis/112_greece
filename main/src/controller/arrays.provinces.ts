@@ -6,9 +6,22 @@ import Epikratia from "../model/enums.epikratia.js";
 
 const provinces: string[][] = [];
 
-provinces[Provinces.ATTIKIS] = [
-  Prefectures[Prefectures.ATTIKIS]
+provinces[Provinces.DITIKIS_STEREAS] = [
+  Prefectures[Prefectures.ETOLOAKARNANIAS],
+  Prefectures[Prefectures.EVRITANIAS],
 ];
+
+provinces[Provinces.VORIOU_IONIOU] = [
+  Prefectures[Prefectures.KERKIRAS],
+  Prefectures[Prefectures.LEFKADAS],
+];
+
+provinces[Provinces.NOTIOU_IONIOU] = [
+  Prefectures[Prefectures.KEFALLINIAS],
+  Prefectures[Prefectures.ZAKINTHOU],
+];
+
+provinces[Provinces.ATTIKIS] = [Prefectures[Prefectures.ATTIKIS]];
 
 provinces[Provinces.STEREAS_ELLADAS] = [
   Prefectures[Prefectures.EVIAS],

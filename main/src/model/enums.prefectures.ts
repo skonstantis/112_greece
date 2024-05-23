@@ -1,6 +1,8 @@
 /* Author: Sotiris Konstantis */
 
 enum Prefectures {
+    UNIDENTIFIED_AREAS_PELOPONISSOU_AND_STEREAS_ELLADAS,
+    UNIDENTIFIED_AREA,
     ATTIKIS,
     EVIAS,
     EVRITANIAS,

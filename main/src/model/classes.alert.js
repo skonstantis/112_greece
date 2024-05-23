@@ -23,7 +23,6 @@ class Alert {
   }
 
   static capitalize(string) {
-    console.log(string);
     const words = string.split(" ");
     string = "";
     for (let i = 0; i < words.length; i++) {
