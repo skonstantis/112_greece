@@ -7,6 +7,7 @@ enum ExtremeWeather {
   EXTREMELY_LOW_TEMPERATURES,
   STRONG_WINDS,
   HEAVY_SNOW,
+  HEAVY_RAIN,
 }
 
 export default ExtremeWeather;

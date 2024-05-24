@@ -18,6 +18,77 @@ import Tsunami from "../model/enums.tsunami.js";
 import Epikratia from "../model/enums.epikratia.js";
 
 Alerts.add(
+  new Date("2022-06-10"),
+  [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [...provinces[Provinces.KENTRIKIS_MAKEDONIAS], ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS],...provinces[Provinces.VORIOU_EGEOU]]
+);
+
+Alerts.add(
+  new Date("2022-06-09"),
+  [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.UNIDENTIFIED_AREA]]
+);
+
+Alerts.add(
+  new Date("2022-06-06"),
+  [Fire[Fire.INDUSTRIAL_FIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-06-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-01-24"),
+  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  "Elpis"
+);
+
+Alerts.add(
+  new Date("2022-01-23"),
+  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.KIKLADON],
+    Prefectures[Prefectures.LESVOU],
+  ],
+  "Elpis - Vories kyklades and limnos"
+);
+
+Alerts.add(
+  new Date("2022-01-11"),
+  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.MAGNISIAS]],
+  ""
+);
+
+Alerts.add(
+  new Date("2022-01-10"),
+  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.DODEKANISOU],
+    ...provinces[Provinces.THESSALIAS],
+  ],
+  ""
+);
+
+Alerts.add(
   new Date("2021-12-11"),
   [Flood[Flood.FLOODING]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
