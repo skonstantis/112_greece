@@ -7,6 +7,7 @@ enum Type {
   EXCERSISE,
   DANGER,
   PROTECTION_INSTRUCTIONS,
+  ROAD_CLOSURE,
 }
 
 export default Type;

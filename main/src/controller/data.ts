@@ -18,6 +18,286 @@ import Tsunami from "../model/enums.tsunami.js";
 import Epikratia from "../model/enums.epikratia.js";
 
 Alerts.add(
+  new Date("2022-08-23"),
+  [Fire[Fire.INDUSTRIAL_FIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.KERKIRAS]]
+);
+
+Alerts.add(
+  new Date("2022-08-11"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.KAVALAS]]
+);
+
+Alerts.add(
+  new Date("2022-08-10"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ZAKINTHOU]]
+);
+
+Alerts.add(
+  new Date("2022-08-05"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-08-03"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.MESSINIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.LESVOU]]
+);
+
+Alerts.add(
+  new Date("2022-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.EVROU]]
+);
+
+Alerts.add(
+  new Date("2022-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ILIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.LESVOU]]
+);
+
+Alerts.add(
+  new Date("2022-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.LESVOU]]
+);
+
+Alerts.add(
+  new Date("2022-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.EVROU]]
+);
+
+Alerts.add(
+  new Date("2022-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.LESVOU]]
+);
+
+Alerts.add(
+  new Date("2022-07-21"),
+  [Fire[Fire.INDUSTRIAL_FIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ILIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.ROAD_CLOSURE]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.RETHIMNIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-16"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ACHAIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-15"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.RETHIMNIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-15"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-15"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-05"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.FOKIDAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.FOKIDAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.FOKIDAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ILIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.VIOTIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ILIAS]]
+);
+
+Alerts.add(
+  new Date("2022-07-04"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ILIAS]]
+);
+
+Alerts.add(
+  new Date("2022-06-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.EVIAS]]
+);
+
+Alerts.add(
   new Date("2022-06-10"),
   [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
@@ -924,6 +1204,22 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.KASTRORIAS]],
+  ""
+);
+
+Alerts.add(
+  new Date("2020-10-15"),
+  [Covid19[Covid19.COVID_19]],
+  [Type[Type.CURFEW]],
+  [Prefectures[Prefectures.KOZANIS]],
+  ""
+);
+
+Alerts.add(
+  new Date("2020-10-07"),
+  [Covid19[Covid19.COVID_19]],
+  [Type[Type.CURFEW]],
+  [Prefectures[Prefectures.KOZANIS], Prefectures[Prefectures.IOANNINON]],
   ""
 );
 
