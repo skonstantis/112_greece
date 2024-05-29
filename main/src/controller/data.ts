@@ -16,313 +16,400 @@ import Volcano from "../model/enums.volcano.js";
 import Landslide from "../model/enums.landslides.js";
 import Tsunami from "../model/enums.tsunami.js";
 import Epikratia from "../model/enums.epikratia.js";
+import Event from "../model/enums.event";
 
 Alerts.add(
   new Date("2022-08-23"),
   [Fire[Fire.INDUSTRIAL_FIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-08-21"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]]
+  [Prefectures[Prefectures.KERKIRAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-08-11"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KAVALAS]]
+  [Prefectures[Prefectures.KAVALAS]],
+  [Event[Event.NONE]]
 );
 
 Alerts.add(
   new Date("2022-08-10"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ZAKINTHOU]]
+  [Prefectures[Prefectures.ZAKINTHOU]],
+  [Event[Event.NONE]]
 );
 
 Alerts.add(
   new Date("2022-08-05"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-08-03"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]]
+  [Prefectures[Prefectures.MESSINIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-26"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]]
+  [Prefectures[Prefectures.LESVOU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-26"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]]
+  [Prefectures[Prefectures.EVROU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ILIAS]]
+  [Prefectures[Prefectures.ILIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]]
+  [Prefectures[Prefectures.LESVOU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]]
+  [Prefectures[Prefectures.LESVOU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]]
+  [Prefectures[Prefectures.EVROU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-23"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]]
+  [Prefectures[Prefectures.LESVOU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-21"),
   [Fire[Fire.INDUSTRIAL_FIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-21"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ILIAS]]
+  [Prefectures[Prefectures.ILIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.ROAD_CLOSURE]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-18"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RETHIMNIS]]
+  [Prefectures[Prefectures.RETHIMNIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-16"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]]
+  [Prefectures[Prefectures.ACHAIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-15"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RETHIMNIS]]
+  [Prefectures[Prefectures.RETHIMNIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-15"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-15"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-05"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FOKIDAS]]
+  [Prefectures[Prefectures.FOKIDAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.FOKIDAS]]
+  [Prefectures[Prefectures.FOKIDAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.FOKIDAS]]
+  [Prefectures[Prefectures.FOKIDAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]]
+  [Prefectures[Prefectures.ILIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.VIOTIAS]]
+  [Prefectures[Prefectures.VIOTIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]]
+  [Prefectures[Prefectures.ILIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]]
+  [Prefectures[Prefectures.ILIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-06-18"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]]
+  [Prefectures[Prefectures.EVIAS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-06-10"),
   [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.KENTRIKIS_MAKEDONIAS], ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS],...provinces[Provinces.VORIOU_EGEOU]]
+  [...provinces[Provinces.KENTRIKIS_MAKEDONIAS], ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS],...provinces[Provinces.VORIOU_EGEOU]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-06-09"),
   [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.UNIDENTIFIED_AREA]]
+  [Prefectures[Prefectures.UNIDENTIFIED_AREA]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-06-06"),
   [Fire[Fire.INDUSTRIAL_FIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
   new Date("2022-06-04"),
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]]
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  ""
 );
 
 Alerts.add(
@@ -330,6 +417,7 @@ Alerts.add(
   [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
   "Elpis"
 );
 
@@ -344,6 +432,7 @@ Alerts.add(
     Prefectures[Prefectures.KIKLADON],
     Prefectures[Prefectures.LESVOU],
   ],
+  [Event[Event.NONE]],
   "Elpis - Vories kyklades and limnos"
 );
 
@@ -352,7 +441,8 @@ Alerts.add(
   [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.MAGNISIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -365,7 +455,8 @@ Alerts.add(
     Prefectures[Prefectures.DODEKANISOU],
     ...provinces[Provinces.THESSALIAS],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -373,7 +464,8 @@ Alerts.add(
   [Flood[Flood.FLOODING]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ETOLOAKARNANIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -388,7 +480,8 @@ Alerts.add(
       Prefectures.UNIDENTIFIED_AREAS_PELOPONISSOU_AND_STEREAS_ELLADAS
     ],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -396,7 +489,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
   [Prefectures[Prefectures.KIKLADON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -404,7 +498,8 @@ Alerts.add(
   [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.UNIDENTIFIED_AREA]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -416,7 +511,8 @@ Alerts.add(
     ...provinces[Provinces.VORIOU_IONIOU],
     ...provinces[Provinces.IPIROU],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -424,7 +520,8 @@ Alerts.add(
   [Earthquake[Earthquake.EARTHQUAKE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [...provinces[Provinces.KRITIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -432,7 +529,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
   [Prefectures[Prefectures.ARKADIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -440,7 +538,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
   [Prefectures[Prefectures.VIOTIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -448,7 +547,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -456,7 +556,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -464,7 +565,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -472,7 +574,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -480,7 +583,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -488,7 +592,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -496,7 +601,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -504,7 +610,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -512,7 +619,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -520,7 +628,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -528,7 +637,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.KORINTHIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -536,7 +646,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -544,7 +655,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -552,7 +664,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ARKADIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -560,7 +673,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -568,7 +682,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -576,7 +691,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -584,7 +700,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -592,7 +709,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -600,7 +718,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -608,7 +727,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -616,7 +736,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -624,7 +745,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -632,7 +754,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -640,7 +763,8 @@ Alerts.add(
   [Fire[Fire.INCREASED_FIRE_RISK]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.DODEKANISOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -648,7 +772,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -656,7 +781,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.FOKIDAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -664,7 +790,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -672,7 +799,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -680,7 +808,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -688,7 +817,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -696,7 +826,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -704,7 +835,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.FTHIOTIDAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -712,55 +844,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
-);
-
-Alerts.add(
-  new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  ""
-);
-
-Alerts.add(
-  new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  ""
-);
-
-Alerts.add(
-  new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  ""
-);
-
-Alerts.add(
-  new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  ""
-);
-
-Alerts.add(
-  new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  ""
-);
-
-Alerts.add(
-  new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -768,7 +853,62 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
+);
+
+Alerts.add(
+  new Date("2021-08-06"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  "",
+);
+
+Alerts.add(
+  new Date("2021-08-06"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  "",
+);
+
+Alerts.add(
+  new Date("2021-08-06"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  "",
+);
+
+Alerts.add(
+  new Date("2021-08-06"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  "",
+);
+
+Alerts.add(
+  new Date("2021-08-06"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  "",
+);
+
+Alerts.add(
+  new Date("2021-08-06"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Prefectures[Prefectures.ATTIKIS]],
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -776,7 +916,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -784,7 +925,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -792,7 +934,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.FOKIDAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -800,7 +943,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.FOKIDAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -808,7 +952,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -816,7 +961,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -824,7 +970,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -832,7 +979,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.FOKIDAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -840,7 +988,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.GREVENON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -848,7 +997,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.MESSINIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -856,7 +1006,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -864,7 +1015,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -872,7 +1024,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -880,7 +1033,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -888,7 +1042,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -896,7 +1051,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.MESSINIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -904,7 +1060,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.MESSINIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -912,7 +1069,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -920,7 +1078,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ILIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -928,7 +1087,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -936,7 +1096,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -944,7 +1105,8 @@ Alerts.add(
   [Fire[Fire.INCREASED_FIRE_RISK]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.DODEKANISOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -952,7 +1114,8 @@ Alerts.add(
   [Fire[Fire.INCREASED_FIRE_RISK]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [...provinces[Provinces.KRITIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -960,7 +1123,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -968,7 +1132,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -976,7 +1141,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -984,7 +1150,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -992,7 +1159,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1000,7 +1168,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1008,7 +1177,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.MESSINIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1016,7 +1186,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1024,7 +1195,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1032,7 +1204,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
   [Prefectures[Prefectures.DODEKANISOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1040,7 +1213,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.DODEKANISOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1048,7 +1222,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ACHAIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1056,7 +1231,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ACHAIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1064,7 +1240,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ACHAIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1072,7 +1249,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ACHAIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1080,7 +1258,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1088,7 +1267,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1096,7 +1276,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ARGOLIDAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1104,7 +1285,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.KORINTHIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1112,7 +1294,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.EVIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1120,7 +1303,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.DANGER]],
   [Prefectures[Prefectures.KEFALLINIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1128,7 +1312,8 @@ Alerts.add(
   [Fire[Fire.INDUSTRIAL_FIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1136,7 +1321,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1144,7 +1330,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1152,7 +1339,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.EVACUATION]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1160,7 +1348,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [...epikratia[Epikratia.EPIKRATIA]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1168,7 +1357,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.MAGNISIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1180,7 +1370,8 @@ Alerts.add(
     Prefectures[Prefectures.LARISAS],
     Prefectures[Prefectures.RODOPIS],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1188,7 +1379,8 @@ Alerts.add(
   [Tsunami[Tsunami.TSUNAMI], Earthquake[Earthquake.EARTHQUAKE]],
   [Type[Type.DANGER], Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.SAMOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1196,7 +1388,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.IOANNINON], Prefectures[Prefectures.SERRON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1204,7 +1397,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.KASTRORIAS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1212,7 +1406,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.KOZANIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1220,7 +1415,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.KOZANIS], Prefectures[Prefectures.IOANNINON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1228,7 +1424,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.ACHAIAS], Prefectures[Prefectures.IOANNINON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1236,7 +1433,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.KIKLADON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1244,7 +1442,8 @@ Alerts.add(
   [Fire[Fire.WILDFIRE]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.ATTIKIS]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1252,7 +1451,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.TRIKALON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1265,7 +1465,8 @@ Alerts.add(
     Prefectures[Prefectures.ILIAS],
     Prefectures[Prefectures.MESSINIAS],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1273,7 +1474,8 @@ Alerts.add(
   [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [...provinces[Provinces.IONION_NISON]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1286,7 +1488,8 @@ Alerts.add(
     Prefectures[Prefectures.IMATHIAS],
     Prefectures[Prefectures.KILKIS],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1309,7 +1512,8 @@ Alerts.add(
     Prefectures[Prefectures.SAMOU],
     Prefectures[Prefectures.DODEKANISOU],
   ],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1317,7 +1521,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.IRAKLIOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1325,7 +1530,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.ZAKINTHOU], Prefectures[Prefectures.LESVOU]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1333,7 +1539,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [Prefectures[Prefectures.CHANION]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1341,7 +1548,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [...epikratia[Epikratia.EPIKRATIA]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1349,7 +1557,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [...epikratia[Epikratia.EPIKRATIA]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1357,7 +1566,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [...epikratia[Epikratia.EPIKRATIA]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 Alerts.add(
@@ -1365,7 +1575,8 @@ Alerts.add(
   [Covid19[Covid19.COVID_19]],
   [Type[Type.CURFEW]],
   [...epikratia[Epikratia.EPIKRATIA]],
-  ""
+  [Event[Event.NONE]],
+  "",
 );
 
 const dataArray = Alerts.array;

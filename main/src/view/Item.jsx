@@ -2,6 +2,7 @@
 
 import styles from "./item.module.css";
 import Prefecture from "./Prefecture.jsx";
+import Event from "./Event.jsx";
 import Category from "./Category.jsx";
 import Type from "./Type.jsx";
 
@@ -36,7 +37,12 @@ export default function Item({ alert }) {
           {alert.prefectures.map((prefecture) => (
             <Prefecture key={prefecture} prefecture={prefecture} />
           ))}
-        </div>      
+        </div>    
+        <div className={styles.eventContainer}>
+          {alert.events.map((event) => (
+            <Event key={event == null ? "None" : event} event={event} />
+          ))}
+        </div>   
       </div>
     </div>
   );

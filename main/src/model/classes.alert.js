@@ -1,8 +1,10 @@
 /* Author: Sotiris Konstantis */
 
+import "./enums.event.ts";
+
 class Alert {
   static id = 0;
-  constructor(date, categories, types, prefectures, text) {
+  constructor(date, categories, types, prefectures,  events, text) {
     this.id = Alert.id++;
     this.date = date;
     this.text = text;
@@ -20,9 +22,16 @@ class Alert {
       prefectures[i] = Alert.capitalize(prefectures[i])
     }
     this.prefectures = prefectures;
+
+    for(let i = 0; i < events.length; i++){
+      events[i] = Alert.capitalize(events[i])
+    }
+    this.events = events;
   }
 
   static capitalize(string) {
+    if(string.length < 1)
+      return;
     const words = string.split(" ");
     string = "";
     for (let i = 0; i < words.length; i++) {
@@ -35,7 +44,7 @@ class Alert {
 export default class Alerts {
   static array = [];
 
-  static add(date, categories, types, prefectures, text) {
+  static add(date, categories, types, prefectures, events, text) {
     for(let i = 0; i < categories.length; i++)
     {
       categories[i] = categories[i].replaceAll("_", " ").toLowerCase();
@@ -51,6 +60,11 @@ export default class Alerts {
       prefectures[i] = prefectures[i].replaceAll("_", " ").toLowerCase();
     }
 
-    this.array.push(new Alert(date, categories, types, prefectures, text));
+    for(let i = 0; i < events.length; i++)
+    {
+      events[i] = events[i].replace("NONE", "").replaceAll("_", " ").toLowerCase();
+    }
+
+    this.array.push(new Alert(date, categories, types, prefectures, events, text));
   }
 }
