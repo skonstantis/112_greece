@@ -11,10 +11,23 @@ provinces[Provinces.DITIKIS_STEREAS] = [
   Prefectures[Prefectures.EVRITANIAS],
 ];
 
+provinces[Provinces.DITIKIS_PELOPONISSOU] = [
+  Prefectures[Prefectures.ILIAS],
+  Prefectures[Prefectures.MESSINIAS],
+];
+
+
 provinces[Provinces.VORIOU_IONIOU] = [
   Prefectures[Prefectures.KERKIRAS],
   Prefectures[Prefectures.LEFKADAS],
 ];
+
+provinces[Provinces.ANATOLIKIS_STEREAS] = [
+  Prefectures[Prefectures.EVIAS],
+  Prefectures[Prefectures.VIOTIAS],
+  Prefectures[Prefectures.FTHIOTIDAS],
+];
+
 
 provinces[Provinces.NOTIOU_IONIOU] = [
   Prefectures[Prefectures.KEFALLINIAS],

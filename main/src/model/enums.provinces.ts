@@ -17,7 +17,9 @@ enum Provinces{
     THESSALIAS,
     DITIKIS_ELLADAS,
     DITIKIS_MAKEDONIAS,
-    AGIOU_OROUS
+    AGIOU_OROUS,
+    ANATOLIKIS_STEREAS,
+    DITIKIS_PELOPONISSOU
 }
 
 export default Provinces;
