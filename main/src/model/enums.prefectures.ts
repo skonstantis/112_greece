@@ -1,6 +1,7 @@
 /* Author: Sotiris Konstantis */
 
 enum Prefectures {
+    RANGED_AREA,
     UNIDENTIFIED_AREAS_PELOPONISSOU_AND_STEREAS_ELLADAS,
     UNIDENTIFIED_AREA,
     ATTIKIS,
