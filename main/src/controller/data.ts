@@ -19,6 +19,1162 @@ import Epikratia from "../model/enums.epikratia.js";
 import Event from "../model/enums.event";
 
 Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KIKLADON]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.RODOPIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KAVALAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.RODOPIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KAVALAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.VIOTIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.VIOTIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.EVROU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.ZAKINTHOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-15"),
+  [Fire[Fire.INDUSTRIAL_FIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-13"),
+  [Earthquake[Earthquake.EARTHQUAKE], Landslide[Landslide.LANDSLIDE_RISK]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.CHANION]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-09"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-08-05"),
+  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    ...provinces[Provinces.IONION_NISON],  ...provinces[Provinces.IPIROU], 
+    Prefectures[Prefectures.ETOLOAKARNANIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-31"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.CHIOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-29"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ILIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-28"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER_DIMINISHED]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-28"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER_DIMINISHED]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.EXPLOSIONS_CAUSED_BY_FIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER_DIMINISHED]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.FTHIOTIDAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER_DIMINISHED]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.INDUSTRIAL_FIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-27"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.FTHIOTIDAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.FTHIOTIDAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-26"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.MAGNISIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-25"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-24"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ACHAIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KERKIRAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ACHAIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.EVIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-23"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-22"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-22"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-22"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-22"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-21"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-20"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.DODEKANISOU]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-19"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.DANGER]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-18"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.KORINTHIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.KORINTHIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.EVACUATION]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-17"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.ATTIKIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-15"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.VIOTIAS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-07-10"),
+  [Fire[Fire.WILDFIRE]],
+  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [
+    Prefectures[Prefectures.RETHIMNIS]
+  ],
+  [Event[Event.NONE]],
+  ""
+);
+
+Alerts.add(
   new Date("2023-06-18"),
   [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
@@ -956,7 +2112,7 @@ Alerts.add(
 
 Alerts.add(
   new Date("2022-06-10"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
+  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [
     ...provinces[Provinces.KENTRIKIS_MAKEDONIAS],
@@ -969,7 +2125,7 @@ Alerts.add(
 
 Alerts.add(
   new Date("2022-06-09"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
+  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HEAVY_RAIN]],
   [Type[Type.PROTECTION_INSTRUCTIONS]],
   [Prefectures[Prefectures.UNIDENTIFIED_AREA]],
   [Event[Event.NONE]],
