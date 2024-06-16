@@ -21,4705 +21,4705 @@ import Traffic from "../model/enums.traffic.js";
 
 Alerts.add(
   new Date("2024-06-14"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
+  "Δασική πυρκαγιά στον Άγιο Θωμά Λάρισας. Αν βρίσκεστε στην περιοχή απομακρυνθείτε προς την πόλη της Λάρισας."
+);
+
+Alerts.add(
+  new Date("2024-06-14"),
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [
+    Prefectures[Prefectures.ΠΈΛΛΑΣ],
+  ],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-14"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.PELLAS],
+    Prefectures[Prefectures.ΚΙΛΚΊΣ],
   ],
-  [Event[Event.NONE]],
-  ""
-);
-
-Alerts.add(
-  new Date("2024-06-14"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [
-    Prefectures[Prefectures.KILKIS],
-  ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-12"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ATTIKIS],
+    Prefectures[Prefectures.ΑΤΤΙΚΉΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-09"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.DODEKANISOU],
+    Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-09"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.DODEKANISOU],
+    Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-08"),
-  [Traffic[Traffic.TRAFFIC]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Traffic[Traffic.ΟΔΙΚΉ_ΚΊΝΗΣΗ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.UNIDENTIFIED_AREA],
+    Prefectures[Prefectures.ΠΟΛΛΈΣ_ΠΕΡΙΟΧΈΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-08"),
-  [Traffic[Traffic.TRAFFIC]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Traffic[Traffic.ΟΔΙΚΉ_ΚΊΝΗΣΗ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.UNIDENTIFIED_AREA],
+    Prefectures[Prefectures.ΠΟΛΛΈΣ_ΠΕΡΙΟΧΈΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.CHIOU],
+    Prefectures[Prefectures.ΧΊΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-06-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.VIOTIAS],
+    Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-04-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.CHANION],
+    Prefectures[Prefectures.ΧΑΝΊΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-04-23"),
-  [Earthquake[Earthquake.EARTHQUAKE]],
-  [Type[Type.EXCERSISE]],
+  [Earthquake[Earthquake.ΣΕΙΣΜΙΚΉ_ΔΌΝΗΣΗ]],
+  [Type[Type.ΆΚΣΗΣΗΣ]],
   [
-    Prefectures[Prefectures.IRAKLIOU],
+    Prefectures[Prefectures.ΗΡΑΚΛΕΊΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-04-22"),
-  [Earthquake[Earthquake.EARTHQUAKE]],
-  [Type[Type.EXCERSISE]],
+  [Earthquake[Earthquake.ΣΕΙΣΜΙΚΉ_ΔΌΝΗΣΗ]],
+  [Type[Type.ΆΚΣΗΣΗΣ]],
   [
-    Prefectures[Prefectures.RETHIMNIS],
-    Prefectures[Prefectures.CHANION],
+    Prefectures[Prefectures.ΡΕΘΎΜΝΗΣ],
+    Prefectures[Prefectures.ΧΑΝΊΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-04-19"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.UNIDENTIFIED_AREAS_KENTRIKIS_MAKEDONIAS],
-    Prefectures[Prefectures.UNIDENTIFIED_AREAS_STEREAS_ELLADAS],
-    ...provinces[Provinces.THESSALIAS],
-    ...provinces[Provinces.IPIROU],
-    ...provinces[Provinces.VORIOU_EGEOU],
+    Prefectures[Prefectures.ΠΕΡΙΟΧΈΣ_ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ],
+    Prefectures[Prefectures.ΠΕΡΙΟΧΈΣ_ΣΤΕΡΕΆΣ_ΕΛΛΆΔΑΣ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ],
+    ...provinces[Provinces.ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-04-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LASITHIOU],
+    Prefectures[Prefectures.ΛΑΣΙΘΊΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-04-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LASITHIOU],
+    Prefectures[Prefectures.ΛΑΣΙΘΊΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2024-01-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ETOLOAKARNANIAS],
-    Prefectures[Prefectures.ILIAS],
-    Prefectures[Prefectures.ACHAIAS],
-    ...provinces[Provinces.IONION_NISON],
-    ...provinces[Provinces.IPIROU]
+    Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+    Prefectures[Prefectures.ΗΛΕΊΑΣ],
+    Prefectures[Prefectures.ΑΧΑΐΑΣ],
+    ...provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-11-25"),
-  [ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ATTIKIS]
+    Prefectures[Prefectures.ΑΤΤΙΚΉΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-11-25"),
-  [ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.VORIOU_EGEOU]
+    ...provinces[Provinces.ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-11-25"),
-  [ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KIKLADON]
+    Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-11-25"),
-  [ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ACHAIAS],
-    Prefectures[Prefectures.KORINTHIAS]
+    Prefectures[Prefectures.ΑΧΑΐΑΣ],
+    Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-11-25"),
-  [ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS]
+    ...provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ_ΚΑΙ_ΘΡΆΚΗΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-11-25"),
-  [ExtremeWeather[ExtremeWeather.STRONG_WINDS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.KENTRIKIS_MAKEDONIAS]
+    ...provinces[Provinces.ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-10-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KERKIRAS],
+    Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-28"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.DANGER]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-28"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-28"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-28"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-28"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.DANGER]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HAIL]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΧΑΛΑΖΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-27"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-26"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ATTIKIS],
+    Prefectures[Prefectures.ΑΤΤΙΚΉΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-26"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HAIL]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΧΑΛΑΖΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVRITANIAS],
-    Prefectures[Prefectures.FOKIDAS],
-    Prefectures[Prefectures.MESSINIAS],
-    Prefectures[Prefectures.MAGNISIAS],
-    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΥΡΥΤΑΝΊΑΣ],
+    Prefectures[Prefectures.ΦΩΚΊΔΑΣ],
+    Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-26"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HAIL]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΧΑΛΑΖΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KEFALLINIAS],
-    Prefectures[Prefectures.ZAKINTHOU],
+    Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ],
+    Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-26"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HAIL]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΧΑΛΑΖΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.UNIDENTIFIED_AREAS_PELOPONISSOU],
+    Prefectures[Prefectures.ΠΕΡΙΟΧΈΣ_ΠΕΛΟΠΟΝΝΉΣΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-25"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HAIL]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΧΑΛΑΖΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KORINTHIAS],
+    Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-24"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS], ExtremeWeather[ExtremeWeather.HAIL]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ], ExtremeWeather[ExtremeWeather.ΧΑΛΑΖΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVIAS],
-    ...provinces[Provinces.THESSALIAS]
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-18"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.RODOPIS],
+    Prefectures[Prefectures.ΡΟΔΌΠΗΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.DANGER]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.DANGER]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.DANGER]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.DANGER]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-09"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-08"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-08"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-08"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-08"),
-  [Flood[Flood.RIVER_BULWARK_BREAK]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΣΠΆΣΙΜΟ_ΑΝΑΧΏΜΑΤΟΣ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-08"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.LARISAS],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Landslide[Landslide.LANDSLIDE_RISK]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Landslide[Landslide.ΚΊΝΔΥΝΟΣ_ΚΑΤΟΛΙΣΘΉΣΕΩΝ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.TRIKALON],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.TRIKALON],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING], Traffic[Traffic.ROAD_CLOSURE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ], Traffic[Traffic.ΚΛΕΊΣΙΜΟ_ΔΡΌΜΟΥ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.RANGED_AREA],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ], Prefectures[Prefectures.ΛΆΡΙΣΑΣ], Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   "From Lamia to Katerini"
 );
 
 Alerts.add(
   new Date("2023-09-07"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.TRIKALON],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.TRIKALON],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ATTIKIS],
+    Prefectures[Prefectures.ΑΤΤΙΚΉΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.TRIKALON],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    ...provinces[Provinces.THESSALIAS],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.TRIKALON],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.EVACUATION]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ATTIKIS],
+    Prefectures[Prefectures.ΑΤΤΙΚΉΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.LARISAS]
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.KARDITSAS]
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS]
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    ...provinces[Provinces.THESSALIAS],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS]
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS]
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.CURFEW]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS]
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    ...provinces[Provinces.THESSALIAS],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-04"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    ...provinces[Provinces.THESSALIAS],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-02"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-09-02"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-31"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-31"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-31"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-30"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-30"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-29"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KIKLADON]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.FTHIOTIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KAVALAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΑΒΆΛΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE], Traffic[Traffic.ROAD_CLOSURE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ], Traffic[Traffic.ΚΛΕΊΣΙΜΟ_ΔΡΌΜΟΥ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KIKLADON]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KAVALAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΑΒΆΛΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RODOPIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΟΔΌΠΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KAVALAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΑΒΆΛΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ZAKINTHOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-15"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-13"),
-  [Earthquake[Earthquake.EARTHQUAKE], Landslide[Landslide.LANDSLIDE_RISK]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.CHANION]],
-  [Event[Event.NONE]],
+  [Earthquake[Earthquake.ΣΕΙΣΜΙΚΉ_ΔΌΝΗΣΗ], Landslide[Landslide.ΚΊΝΔΥΝΟΣ_ΚΑΤΟΛΙΣΘΉΣΕΩΝ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΧΑΝΊΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-09"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-08-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.IONION_NISON],
-    ...provinces[Provinces.IPIROU],
-    Prefectures[Prefectures.ETOLOAKARNANIAS],
+    ...provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ],
+    Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-31"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.CHIOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΧΊΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-29"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-28"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER_DIMINISHED]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΆΡΣΗΣ_ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-28"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER_DIMINISHED]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΆΡΣΗΣ_ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.EXPLOSIONS_CAUSED_BY_FIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΕΚΡΉΞΕΙΣ_ΛΌΓΩ_ΠΥΡΚΑΓΙΆΣ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER_DIMINISHED]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΆΡΣΗΣ_ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FTHIOTIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER_DIMINISHED]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΆΡΣΗΣ_ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FTHIOTIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FTHIOTIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-22"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.KORINTHIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KORINTHIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-17"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-15"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-07-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.RETHIMNIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΕΘΎΜΝΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-06-18"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.KIKLADON],
-    Prefectures[Prefectures.CHIOU],
-    Prefectures[Prefectures.LESVOU],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ],
+    Prefectures[Prefectures.ΧΊΟΥ],
+    Prefectures[Prefectures.ΛΈΣΒΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-06-18"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVIAS], Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ], Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-04-03"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.CHALKIDIKIS],
-    Prefectures[Prefectures.KAVALAS],
-    Prefectures[Prefectures.XANTHIS],
+    Prefectures[Prefectures.ΧΑΛΚΙΔΙΚΉΣ],
+    Prefectures[Prefectures.ΚΑΒΆΛΑΣ],
+    Prefectures[Prefectures.ΞΆΝΘΗΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-04-03"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.PELLAS],
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.IMATHIAS],
-    Prefectures[Prefectures.THESSALONIKIS],
+    Prefectures[Prefectures.ΠΈΛΛΑΣ],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΗΜΑΘΊΑΣ],
+    Prefectures[Prefectures.ΘΕΣΣΑΛΟΝΊΚΗΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-07"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-07"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.VIOTIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVIAS],
+    Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-06"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.VIOTIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-04"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-02-04"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.VIOTIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-26"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-26"),
-  [Flood[Flood.RIVER_OVERFLOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ARKADIAS]],
-  [Event[Event.NONE]],
-  ""
-);
-
-Alerts.add(
-  new Date("2023-01-26"),
-  [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
-  ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [
-    Prefectures[Prefectures.EVROU],
-    Prefectures[Prefectures.KAVALAS],
-    Prefectures[Prefectures.LESVOU],
-    Prefectures[Prefectures.CHIOU],
-    Prefectures[Prefectures.SAMOU],
-  ],
-  [Event[Event.NONE]],
+  [Flood[Flood.ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΡΚΑΔΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-26"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [
+    Prefectures[Prefectures.ΈΒΡΟΥ],
+    Prefectures[Prefectures.ΚΑΒΆΛΑΣ],
+    Prefectures[Prefectures.ΛΈΣΒΟΥ],
+    Prefectures[Prefectures.ΧΊΟΥ],
+    Prefectures[Prefectures.ΣΆΜΟΥ],
+  ],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-26"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-26"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-26"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-01-26"),
+  [
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
+  ],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-25"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.DITIKIS_MAKEDONIAS]],
-  [Event[Event.NONE]],
-  ""
-);
-
-Alerts.add(
-  new Date("2023-01-25"),
-  [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
-  ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [
-    Prefectures[Prefectures.KORINTHIAS],
-    Prefectures[Prefectures.ARGOLIDAS],
-    Prefectures[Prefectures.LAKONIAS],
-    Prefectures[Prefectures.MESSINIAS],
-    Prefectures[Prefectures.ARKADIAS],
-    Prefectures[Prefectures.KARDITSAS],
-    Prefectures[Prefectures.TRIKALON],
-  ],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΔΥΤΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2023-01-25"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ETOLOAKARNANIAS],
-    Prefectures[Prefectures.ILIAS],
-    Prefectures[Prefectures.ACHAIAS],
-    Prefectures[Prefectures.KEFALLINIAS],
-    Prefectures[Prefectures.ZAKINTHOU],
-    Prefectures[Prefectures.LEFKADAS],
+    Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ],
+    Prefectures[Prefectures.ΑΡΓΟΛΊΔΑΣ],
+    Prefectures[Prefectures.ΛΑΚΩΝΊΑΣ],
+    Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
+    Prefectures[Prefectures.ΑΡΚΑΔΊΑΣ],
+    Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
+    Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
+  ""
+);
+
+Alerts.add(
+  new Date("2023-01-25"),
+  [
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
+  ],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [
+    Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+    Prefectures[Prefectures.ΗΛΕΊΑΣ],
+    Prefectures[Prefectures.ΑΧΑΐΑΣ],
+    Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ],
+    Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ],
+    Prefectures[Prefectures.ΛΕΥΚΆΔΑΣ],
+  ],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-11"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.SAMOU], Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΣΆΜΟΥ], Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-11"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.KRITIS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΚΡΉΤΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-10"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ACHAIAS],
-    Prefectures[Prefectures.ILIAS],
-    Prefectures[Prefectures.MESSINIAS],
+    Prefectures[Prefectures.ΑΧΑΐΑΣ],
+    Prefectures[Prefectures.ΗΛΕΊΑΣ],
+    Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-10"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ETOLOAKARNANIAS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-10"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.KEFALLINIAS], ...provinces[Provinces.IPIROU]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ], ...provinces[Provinces.ΗΠΕΊΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-09"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-08"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-12-01"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.STRONG_WINDS],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.LESVOU]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΛΈΣΒΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-30"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.CHALKIDIKIS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΧΑΛΚΙΔΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-30"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.PIERIAS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΠΙΕΡΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-30"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.KEFALLINIAS], Prefectures[Prefectures.ZAKINTHOU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ], Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-23"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.SAMOU], Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΣΆΜΟΥ], Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.IMATHIAS],
-    Prefectures[Prefectures.PELLAS],
-    Prefectures[Prefectures.CHALKIDIKIS],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΗΜΑΘΊΑΣ],
+    Prefectures[Prefectures.ΠΈΛΛΑΣ],
+    Prefectures[Prefectures.ΧΑΛΚΙΔΙΚΉΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS], Prefectures[Prefectures.KORINTHIAS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ], Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-05"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.PELOPONNISOU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΠΕΛΟΠΟΝΝΉΣΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-04"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.DITIKIS_ELLADAS],
-    ...provinces[Provinces.NOTIOU_IONIOU],
-    Prefectures[Prefectures.MESSINIAS],
+    ...provinces[Provinces.ΔΥΤΙΚΉΣ_ΕΛΛΆΔΑΣ],
+    ...provinces[Provinces.ΝΟΤΊΟΥ_ΙΟΝΊΟΥ],
+    Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-11-04"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.VORIOU_IONIOU], ...provinces[Provinces.IPIROU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΒΟΡΕΊΟΥ_ΙΟΝΊΟΥ], ...provinces[Provinces.ΗΠΕΊΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-10-15"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-10-15"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-10-15"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.LASITHIOU]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΛΑΣΙΘΊΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-10-14"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.IPIROU],
-    ...provinces[Provinces.DITIKIS_ELLADAS],
-    ...provinces[Provinces.IONION_NISON],
-    ...provinces[Provinces.DITIKIS_PELOPONISSOU],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ],
+    ...provinces[Provinces.ΔΥΤΙΚΉΣ_ΕΛΛΆΔΑΣ],
+    ...provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ],
+    ...provinces[Provinces.ΔΥΤΙΚΉΣ_ΠΕΛΟΠΟΝΉΣΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-09-26"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.KERKIRAS],
-    Prefectures[Prefectures.LEFKADAS],
-    Prefectures[Prefectures.KEFALLINIAS],
-    Prefectures[Prefectures.ETOLOAKARNANIAS],
-    ...provinces[Provinces.IPIROU],
+    Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ],
+    Prefectures[Prefectures.ΛΕΥΚΆΔΑΣ],
+    Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ],
+    Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-09-04"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.THESSALONIKIS],
-    Prefectures[Prefectures.IMATHIAS],
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.CHALKIDIKIS],
-    Prefectures[Prefectures.LARISAS],
-    Prefectures[Prefectures.MAGNISIAS],
+    Prefectures[Prefectures.ΘΕΣΣΑΛΟΝΊΚΗΣ],
+    Prefectures[Prefectures.ΗΜΑΘΊΑΣ],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΧΑΛΚΙΔΙΚΉΣ],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-08-24"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS],
-    ...provinces[Provinces.KENTRIKIS_MAKEDONIAS],
-    ...provinces[Provinces.VORIOU_EGEOU],
-    ...provinces[Provinces.THESSALIAS],
-    ...provinces[Provinces.ANATOLIKIS_STEREAS],
+    ...provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ_ΚΑΙ_ΘΡΆΚΗΣ],
+    ...provinces[Provinces.ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ],
+    ...provinces[Provinces.ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
+    ...provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΣΤΕΡΕΆΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-08-23"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-08-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KERKIRAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-08-11"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KAVALAS]],
-  [Event[Event.NONE]]
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΑΒΆΛΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]]
 );
 
 Alerts.add(
   new Date("2022-08-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ZAKINTHOU]],
-  [Event[Event.NONE]]
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]]
 );
 
 Alerts.add(
   new Date("2022-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΛΈΣΒΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-26"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΛΈΣΒΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΛΈΣΒΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVROU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΈΒΡΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.LESVOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΛΈΣΒΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-21"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
-  [Fire[Fire.WILDFIRE], Traffic[Traffic.ROAD_CLOSURE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ], Traffic[Traffic.ΚΛΕΊΣΙΜΟ_ΔΡΌΜΟΥ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-19"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RETHIMNIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΕΘΎΜΝΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-15"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.RETHIMNIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΡΕΘΎΜΝΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-15"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-15"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-07-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-06-18"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-06-10"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.HEAVY_RAIN],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΒΡΟΧΟΠΤΏΣΕΙΣ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.KENTRIKIS_MAKEDONIAS],
-    ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS],
-    ...provinces[Provinces.VORIOU_EGEOU],
+    ...provinces[Provinces.ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ],
+    ...provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ_ΚΑΙ_ΘΡΆΚΗΣ],
+    ...provinces[Provinces.ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-06-09"),
   [
-    ExtremeWeather[ExtremeWeather.HEAVY_THUNDERSTORMS],
-    ExtremeWeather[ExtremeWeather.HEAVY_RAIN],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ],
+    ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΒΡΟΧΟΠΤΏΣΕΙΣ],
   ],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.UNIDENTIFIED_AREA]],
-  [Event[Event.NONE]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΠΟΛΛΈΣ_ΠΕΡΙΟΧΈΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-06-06"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-06-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-01-24"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   "Elpis"
 );
 
 Alerts.add(
   new Date("2022-01-23"),
-  [ExtremeWeather[ExtremeWeather.HEAVY_SNOW]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.MAGNISIAS],
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.KIKLADON],
-    Prefectures[Prefectures.LESVOU],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ],
+    Prefectures[Prefectures.ΛΈΣΒΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   "Elpis - Vories kyklades and limnos"
 );
 
 Alerts.add(
   new Date("2022-01-11"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2022-01-10"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.FTHIOTIDAS],
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.DODEKANISOU],
-    ...provinces[Provinces.THESSALIAS],
+    Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-12-11"),
-  [Flood[Flood.FLOODING]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ETOLOAKARNANIAS]],
-  [Event[Event.NONE]],
+  [Flood[Flood.ΠΛΗΜΜΎΡΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-12-10"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.IONION_NISON],
-    ...provinces[Provinces.IPIROU],
-    ...provinces[Provinces.THESSALIAS],
+    ...provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ],
+    ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
     Prefectures[
-      Prefectures.UNIDENTIFIED_AREAS_PELOPONISSOU
+      Prefectures.ΠΕΡΙΟΧΈΣ_ΠΕΛΟΠΟΝΝΉΣΟΥ
     ],
     Prefectures[
-      Prefectures.UNIDENTIFIED_AREAS_STEREAS_ELLADAS
+      Prefectures.ΠΕΡΙΟΧΈΣ_ΣΤΕΡΕΆΣ_ΕΛΛΆΔΑΣ
     ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-11-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.KIKLADON]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-10-13"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.UNIDENTIFIED_AREA]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΠΟΛΛΈΣ_ΠΕΡΙΟΧΈΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-10-06"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    ...provinces[Provinces.DITIKIS_STEREAS],
-    ...provinces[Provinces.VORIOU_IONIOU],
-    ...provinces[Provinces.IPIROU],
+    ...provinces[Provinces.ΔΥΤΙΚΉΣ_ΣΤΕΡΕΆΣ],
+    ...provinces[Provinces.ΒΟΡΕΊΟΥ_ΙΟΝΊΟΥ],
+    ...provinces[Provinces.ΗΠΕΊΡΟΥ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-09-27"),
-  [Earthquake[Earthquake.EARTHQUAKE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.KRITIS]],
-  [Event[Event.NONE]],
+  [Earthquake[Earthquake.ΣΕΙΣΜΙΚΉ_ΔΌΝΗΣΗ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΚΡΉΤΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-09-21"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ARKADIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΑΡΚΑΔΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-09-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.VIOTIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-23"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-16"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-14"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KORINTHIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-14"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ARKADIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΡΚΑΔΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-09"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-08"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-08"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-07"),
-  [Fire[Fire.INCREASED_FIRE_RISK]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΑΥΞΗΜΈΝΟΣ_ΚΊΝΔΥΝΟΣ_ΠΥΡΚΑΓΙΆΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-07"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FTHIOTIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-06"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.FOKIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΦΩΚΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.GREVENON]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΓΡΕΒΕΝΏΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-05"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ILIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΗΛΕΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.INCREASED_FIRE_RISK]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΑΥΞΗΜΈΝΟΣ_ΚΊΝΔΥΝΟΣ_ΠΥΡΚΑΓΙΆΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.INCREASED_FIRE_RISK]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.KRITIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΑΥΞΗΜΈΝΟΣ_ΚΊΝΔΥΝΟΣ_ΠΥΡΚΑΓΙΆΣ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΚΡΉΤΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-04"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.MESSINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-01"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-08-01"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.DODEKANISOU]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-31"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-31"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-28"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-28"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ACHAIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-25"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ARGOLIDAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΡΓΟΛΊΔΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-24"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.KORINTHIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-10"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.EVIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΕΎΒΟΙΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-07-03"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.DANGER]],
-  [Prefectures[Prefectures.KEFALLINIAS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
+  [Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-06-18"),
-  [Fire[Fire.INDUSTRIAL_FIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-05-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-05-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2021-05-20"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.EVACUATION]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΚΚΈΝΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-11-07"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [...epikratia[Epikratia.EPIKRATIA]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [...epikratia[Epikratia.ΕΠΙΚΡΆΤΕΙΑ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-11-02"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.MAGNISIAS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-30"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.THESSALONIKIS],
-    Prefectures[Prefectures.LARISAS],
-    Prefectures[Prefectures.RODOPIS],
+    Prefectures[Prefectures.ΘΕΣΣΑΛΟΝΊΚΗΣ],
+    Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
+    Prefectures[Prefectures.ΡΟΔΌΠΗΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-30"),
-  [Tsunami[Tsunami.TSUNAMI], Earthquake[Earthquake.EARTHQUAKE]],
-  [Type[Type.DANGER], Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.SAMOU]],
-  [Event[Event.NONE]],
+  [Tsunami[Tsunami.ΤΣΟΥΝΆΜΙ], Earthquake[Earthquake.ΣΕΙΣΜΙΚΉ_ΔΌΝΗΣΗ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ], Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΣΆΜΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-29"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.IOANNINON], Prefectures[Prefectures.SERRON]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΙΩΑΝΝΊΝΩΝ], Prefectures[Prefectures.ΣΕΡΡΏΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-23"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.KASTRORIAS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΚΑΣΤΟΡΙΆΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-15"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.KOZANIS]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΚΟΖΆΝΗΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-07"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.KOZANIS], Prefectures[Prefectures.IOANNINON]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΚΟΖΆΝΗΣ], Prefectures[Prefectures.ΙΩΑΝΝΊΝΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-05"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.ACHAIAS], Prefectures[Prefectures.IOANNINON]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΑΧΑΐΑΣ], Prefectures[Prefectures.ΙΩΑΝΝΊΝΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-10-01"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.KIKLADON]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-09-27"),
-  [Fire[Fire.WILDFIRE]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [Prefectures[Prefectures.ATTIKIS]],
-  [Event[Event.NONE]],
+  [Fire[Fire.ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-09-25"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.TRIKALON]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-09-17"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
   [
-    Prefectures[Prefectures.ETOLOAKARNANIAS],
-    Prefectures[Prefectures.ACHAIAS],
-    Prefectures[Prefectures.ILIAS],
-    Prefectures[Prefectures.MESSINIAS],
+    Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+    Prefectures[Prefectures.ΑΧΑΐΑΣ],
+    Prefectures[Prefectures.ΗΛΕΊΑΣ],
+    Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-09-17"),
-  [ExtremeWeather[ExtremeWeather.EXTREME_WEATHER]],
-  [Type[Type.PROTECTION_INSTRUCTIONS]],
-  [...provinces[Provinces.IONION_NISON]],
-  [Event[Event.NONE]],
+  [ExtremeWeather[ExtremeWeather.ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ]],
+  [Type[Type.ΕΝΗΜΈΡΩΣΗΣ]],
+  [...provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-09-11"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
   [
-    Prefectures[Prefectures.PELLAS],
-    Prefectures[Prefectures.PIERIAS],
-    Prefectures[Prefectures.IMATHIAS],
-    Prefectures[Prefectures.KILKIS],
+    Prefectures[Prefectures.ΠΈΛΛΑΣ],
+    Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+    Prefectures[Prefectures.ΗΜΑΘΊΑΣ],
+    Prefectures[Prefectures.ΚΙΛΚΊΣ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-09-03"),
-  [Fire[Fire.INCREASED_FIRE_RISK]],
-  [Type[Type.DANGER]],
+  [Fire[Fire.ΑΥΞΗΜΈΝΟΣ_ΚΊΝΔΥΝΟΣ_ΠΥΡΚΑΓΙΆΣ]],
+  [Type[Type.ΕΤΟΙΜΌΤΗΤΑΣ]],
   [
-    Prefectures[Prefectures.EVIAS],
-    Prefectures[Prefectures.VIOTIAS],
-    Prefectures[Prefectures.KERKIRAS],
-    Prefectures[Prefectures.KEFALLINIAS],
-    Prefectures[Prefectures.ZAKINTHOU],
-    Prefectures[Prefectures.ACHAIAS],
-    Prefectures[Prefectures.ILIAS],
-    Prefectures[Prefectures.MESSINIAS],
-    Prefectures[Prefectures.THESSALONIKIS],
-    Prefectures[Prefectures.CHALKIDIKIS],
-    Prefectures[Prefectures.MAGNISIAS],
-    Prefectures[Prefectures.CHIOU],
-    Prefectures[Prefectures.SAMOU],
-    Prefectures[Prefectures.DODEKANISOU],
+    Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+    Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
+    Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ],
+    Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ],
+    Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ],
+    Prefectures[Prefectures.ΑΧΑΐΑΣ],
+    Prefectures[Prefectures.ΗΛΕΊΑΣ],
+    Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
+    Prefectures[Prefectures.ΘΕΣΣΑΛΟΝΊΚΗΣ],
+    Prefectures[Prefectures.ΧΑΛΚΙΔΙΚΉΣ],
+    Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
+    Prefectures[Prefectures.ΧΊΟΥ],
+    Prefectures[Prefectures.ΣΆΜΟΥ],
+    Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ],
   ],
-  [Event[Event.NONE]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-08-31"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.IRAKLIOU]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΗΡΑΚΛΕΊΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-08-29"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.ZAKINTHOU], Prefectures[Prefectures.LESVOU]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ], Prefectures[Prefectures.ΛΈΣΒΟΥ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-08-25"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [Prefectures[Prefectures.CHANION]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [Prefectures[Prefectures.ΧΑΝΊΩΝ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-08-17"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [...epikratia[Epikratia.EPIKRATIA]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [...epikratia[Epikratia.ΕΠΙΚΡΆΤΕΙΑ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-03-22"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [...epikratia[Epikratia.EPIKRATIA]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [...epikratia[Epikratia.ΕΠΙΚΡΆΤΕΙΑ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-03-17"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [...epikratia[Epikratia.EPIKRATIA]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [...epikratia[Epikratia.ΕΠΙΚΡΆΤΕΙΑ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 
 Alerts.add(
   new Date("2020-03-11"),
   [Covid19[Covid19.COVID_19]],
-  [Type[Type.CURFEW]],
-  [...epikratia[Epikratia.EPIKRATIA]],
-  [Event[Event.NONE]],
+  [Type[Type.ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ]],
+  [...epikratia[Epikratia.ΕΠΙΚΡΆΤΕΙΑ]],
+  [Event[Event.ΚΑΝΈΝΑ]],
   ""
 );
 

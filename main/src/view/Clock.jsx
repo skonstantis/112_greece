@@ -7,7 +7,7 @@ import { useEffect } from "react";
 function getTime(time) {
   let date = new Date(time);
   return date
-    .toLocaleDateString("en-Gb", {
+    .toLocaleDateString("el-Gr", {
       day: "2-digit",
       month: "short",
       hour: "2-digit",

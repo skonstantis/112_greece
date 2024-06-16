@@ -1,25 +1,25 @@
 /* Author: Sotiris Konstantis */
 
 enum Provinces{
-    DITIKIS_STEREAS,
-    VORIOU_IONIOU,
-    NOTIOU_IONIOU,
-    ATTIKIS,
-    STEREAS_ELLADAS,
-    KENTRIKIS_MAKEDONIAS,
-    KRITIS,
-    ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS,
-    IPIROU,
-    IONION_NISON,
-    VORIOU_EGEOU,
-    PELOPONNISOU,
-    NOTIOU_EGEOU,
-    THESSALIAS,
-    DITIKIS_ELLADAS,
-    DITIKIS_MAKEDONIAS,
-    AGIOU_OROUS,
-    ANATOLIKIS_STEREAS,
-    DITIKIS_PELOPONISSOU
+    ΔΥΤΙΚΉΣ_ΣΤΕΡΕΆΣ,
+    ΒΟΡΕΊΟΥ_ΙΟΝΊΟΥ,
+    ΝΟΤΊΟΥ_ΙΟΝΊΟΥ,
+    ΑΤΤΙΚΉΣ,
+    ΣΤΕΡΕΆΣ_ΕΛΛΆΔΑΣ,
+    ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ,
+    ΚΡΉΤΗΣ,
+    ΑΝΑΤΟΛΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ_ΚΑΙ_ΘΡΆΚΗΣ,
+    ΗΠΕΊΡΟΥ,
+    ΙΟΝΊΩΝ_ΝΉΣΩΝ,
+    ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ,
+    ΠΕΛΟΠΟΝΝΉΣΟΥ,
+    ΝΟΤΊΟΥ_ΑΙΓΑΊΟΥ,
+    ΘΕΣΣΑΛΊΑΣ,
+    ΔΥΤΙΚΉΣ_ΕΛΛΆΔΑΣ,
+    ΔΥΤΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ,
+    ΑΓΊΟΥ_ΌΡΟΥΣ,
+    ΑΝΑΤΟΛΙΚΉΣ_ΣΤΕΡΕΆΣ,
+    ΔΥΤΙΚΉΣ_ΠΕΛΟΠΟΝΉΣΟΥ
 }
 
 export default Provinces;

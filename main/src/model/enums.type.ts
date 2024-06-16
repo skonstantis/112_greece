@@ -1,12 +1,12 @@
 /* Author: Sotiris Konstantis */
 
 enum Type {
-  CURFEW,
-  EVACUATION,
-  DANGER_DIMINISHED,
-  EXCERSISE,
-  DANGER,
-  PROTECTION_INSTRUCTIONS,
+  ΑΠΑΓΌΡΕΥΣΗΣ_ΚΥΚΛΟΦΟΡΊΑΣ,
+  ΕΚΚΈΝΩΣΗΣ,
+  ΆΡΣΗΣ_ΕΤΟΙΜΌΤΗΤΑΣ,
+  ΆΚΣΗΣΗΣ,
+  ΕΤΟΙΜΌΤΗΤΑΣ,
+  ΕΝΗΜΈΡΩΣΗΣ,
 }
 
 export default Type;

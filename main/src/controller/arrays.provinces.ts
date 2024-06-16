@@ -6,122 +6,122 @@ import Epikratia from "../model/enums.epikratia.js";
 
 const provinces: string[][] = [];
 
-provinces[Provinces.DITIKIS_STEREAS] = [
-  Prefectures[Prefectures.ETOLOAKARNANIAS],
-  Prefectures[Prefectures.EVRITANIAS],
+provinces[Provinces.ΔΥΤΙΚΉΣ_ΣΤΕΡΕΆΣ] = [
+  Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+  Prefectures[Prefectures.ΕΥΡΥΤΑΝΊΑΣ],
 ];
 
-provinces[Provinces.DITIKIS_PELOPONISSOU] = [
-  Prefectures[Prefectures.ILIAS],
-  Prefectures[Prefectures.MESSINIAS],
-];
-
-
-provinces[Provinces.VORIOU_IONIOU] = [
-  Prefectures[Prefectures.KERKIRAS],
-  Prefectures[Prefectures.LEFKADAS],
-];
-
-provinces[Provinces.ANATOLIKIS_STEREAS] = [
-  Prefectures[Prefectures.EVIAS],
-  Prefectures[Prefectures.VIOTIAS],
-  Prefectures[Prefectures.FTHIOTIDAS],
+provinces[Provinces.ΔΥΤΙΚΉΣ_ΠΕΛΟΠΟΝΉΣΟΥ] = [
+  Prefectures[Prefectures.ΗΛΕΊΑΣ],
+  Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
 ];
 
 
-provinces[Provinces.NOTIOU_IONIOU] = [
-  Prefectures[Prefectures.KEFALLINIAS],
-  Prefectures[Prefectures.ZAKINTHOU],
+provinces[Provinces.ΒΟΡΕΊΟΥ_ΙΟΝΊΟΥ] = [
+  Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ],
+  Prefectures[Prefectures.ΛΕΥΚΆΔΑΣ],
 ];
 
-provinces[Provinces.ATTIKIS] = [Prefectures[Prefectures.ATTIKIS]];
-
-provinces[Provinces.STEREAS_ELLADAS] = [
-  Prefectures[Prefectures.EVIAS],
-  Prefectures[Prefectures.EVRITANIAS],
-  Prefectures[Prefectures.FOKIDAS],
-  Prefectures[Prefectures.FTHIOTIDAS],
-  Prefectures[Prefectures.VIOTIAS],
+provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΣΤΕΡΕΆΣ] = [
+  Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+  Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
+  Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
 ];
 
-provinces[Provinces.KENTRIKIS_MAKEDONIAS] = [
-  Prefectures[Prefectures.CHALKIDIKIS],
-  Prefectures[Prefectures.IMATHIAS],
-  Prefectures[Prefectures.KILKIS],
-  Prefectures[Prefectures.PELLAS],
-  Prefectures[Prefectures.PIERIAS],
-  Prefectures[Prefectures.SERRON],
-  Prefectures[Prefectures.THESSALONIKIS],
+
+provinces[Provinces.ΝΟΤΊΟΥ_ΙΟΝΊΟΥ] = [
+  Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ],
+  Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ],
 ];
 
-provinces[Provinces.KRITIS] = [
-  Prefectures[Prefectures.CHANION],
-  Prefectures[Prefectures.IRAKLIOU],
-  Prefectures[Prefectures.LASITHIOU],
-  Prefectures[Prefectures.RETHIMNIS],
+provinces[Provinces.ΑΤΤΙΚΉΣ] = [Prefectures[Prefectures.ΑΤΤΙΚΉΣ]];
+
+provinces[Provinces.ΣΤΕΡΕΆΣ_ΕΛΛΆΔΑΣ] = [
+  Prefectures[Prefectures.ΕΎΒΟΙΑΣ],
+  Prefectures[Prefectures.ΕΥΡΥΤΑΝΊΑΣ],
+  Prefectures[Prefectures.ΦΩΚΊΔΑΣ],
+  Prefectures[Prefectures.ΦΘΙΏΤΙΔΑΣ],
+  Prefectures[Prefectures.ΒΟΙΩΤΊΑΣ],
 ];
 
-provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS] = [
-  Prefectures[Prefectures.DRAMAS],
-  Prefectures[Prefectures.EVROU],
-  Prefectures[Prefectures.KAVALAS],
-  Prefectures[Prefectures.RODOPIS],
-  Prefectures[Prefectures.XANTHIS],
+provinces[Provinces.ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ] = [
+  Prefectures[Prefectures.ΧΑΛΚΙΔΙΚΉΣ],
+  Prefectures[Prefectures.ΗΜΑΘΊΑΣ],
+  Prefectures[Prefectures.ΚΙΛΚΊΣ],
+  Prefectures[Prefectures.ΠΈΛΛΑΣ],
+  Prefectures[Prefectures.ΠΙΕΡΊΑΣ],
+  Prefectures[Prefectures.ΣΕΡΡΏΝ],
+  Prefectures[Prefectures.ΘΕΣΣΑΛΟΝΊΚΗΣ],
 ];
 
-provinces[Provinces.IPIROU] = [
-  Prefectures[Prefectures.ARTAS],
-  Prefectures[Prefectures.IOANNINON],
-  Prefectures[Prefectures.PREVEZAS],
-  Prefectures[Prefectures.THESPROTIAS],
+provinces[Provinces.ΚΡΉΤΗΣ] = [
+  Prefectures[Prefectures.ΧΑΝΊΩΝ],
+  Prefectures[Prefectures.ΗΡΑΚΛΕΊΟΥ],
+  Prefectures[Prefectures.ΛΑΣΙΘΊΟΥ],
+  Prefectures[Prefectures.ΡΕΘΎΜΝΗΣ],
 ];
 
-provinces[Provinces.IONION_NISON] = [
-  Prefectures[Prefectures.KERKIRAS],
-  Prefectures[Prefectures.KEFALLINIAS],
-  Prefectures[Prefectures.LEFKADAS],
-  Prefectures[Prefectures.ZAKINTHOU],
+provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ_ΚΑΙ_ΘΡΆΚΗΣ] = [
+  Prefectures[Prefectures.ΔΡΆΜΑΣ],
+  Prefectures[Prefectures.ΈΒΡΟΥ],
+  Prefectures[Prefectures.ΚΑΒΆΛΑΣ],
+  Prefectures[Prefectures.ΡΟΔΌΠΗΣ],
+  Prefectures[Prefectures.ΞΆΝΘΗΣ],
 ];
 
-provinces[Provinces.VORIOU_EGEOU] = [
-  Prefectures[Prefectures.CHIOU],
-  Prefectures[Prefectures.LESVOU],
-  Prefectures[Prefectures.SAMOU],
+provinces[Provinces.ΗΠΕΊΡΟΥ] = [
+  Prefectures[Prefectures.ΆΡΤΑΣ],
+  Prefectures[Prefectures.ΙΩΑΝΝΊΝΩΝ],
+  Prefectures[Prefectures.ΠΡΈΒΕΖΑΣ],
+  Prefectures[Prefectures.ΘΕΣΠΡΩΤΊΑΣ],
 ];
 
-provinces[Provinces.PELOPONNISOU] = [
-  Prefectures[Prefectures.ARKADIAS],
-  Prefectures[Prefectures.ARGOLIDAS],
-  Prefectures[Prefectures.KORINTHIAS],
-  Prefectures[Prefectures.LAKONIAS],
-  Prefectures[Prefectures.MESSINIAS],
+provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ] = [
+  Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ],
+  Prefectures[Prefectures.ΚΕΦΑΛΛΟΝΙΆΣ],
+  Prefectures[Prefectures.ΛΕΥΚΆΔΑΣ],
+  Prefectures[Prefectures.ΖΑΚΎΝΘΟΥ],
 ];
 
-provinces[Provinces.NOTIOU_EGEOU] = [
-  Prefectures[Prefectures.KIKLADON],
-  Prefectures[Prefectures.DODEKANISOU],
+provinces[Provinces.ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ] = [
+  Prefectures[Prefectures.ΧΊΟΥ],
+  Prefectures[Prefectures.ΛΈΣΒΟΥ],
+  Prefectures[Prefectures.ΣΆΜΟΥ],
 ];
 
-provinces[Provinces.THESSALIAS] = [
-  Prefectures[Prefectures.KARDITSAS],
-  Prefectures[Prefectures.LARISAS],
-  Prefectures[Prefectures.MAGNISIAS],
-  Prefectures[Prefectures.TRIKALON],
+provinces[Provinces.ΠΕΛΟΠΟΝΝΉΣΟΥ] = [
+  Prefectures[Prefectures.ΑΡΚΑΔΊΑΣ],
+  Prefectures[Prefectures.ΑΡΓΟΛΊΔΑΣ],
+  Prefectures[Prefectures.ΚΟΡΙΝΘΊΑΣ],
+  Prefectures[Prefectures.ΛΑΚΩΝΊΑΣ],
+  Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
 ];
 
-provinces[Provinces.DITIKIS_ELLADAS] = [
-  Prefectures[Prefectures.ACHAIAS],
-  Prefectures[Prefectures.ETOLOAKARNANIAS],
-  Prefectures[Prefectures.ILIAS],
+provinces[Provinces.ΝΟΤΊΟΥ_ΑΙΓΑΊΟΥ] = [
+  Prefectures[Prefectures.ΚΥΚΛΆΔΩΝ],
+  Prefectures[Prefectures.ΔΩΔΕΚΑΝΉΣΩΝ],
 ];
 
-provinces[Provinces.DITIKIS_MAKEDONIAS] = [
-  Prefectures[Prefectures.FLORINAS],
-  Prefectures[Prefectures.GREVENON],
-  Prefectures[Prefectures.KASTRORIAS],
-  Prefectures[Prefectures.KOZANIS],
+provinces[Provinces.ΘΕΣΣΑΛΊΑΣ] = [
+  Prefectures[Prefectures.ΚΑΡΔΊΤΣΑΣ],
+  Prefectures[Prefectures.ΛΆΡΙΣΑΣ],
+  Prefectures[Prefectures.ΜΑΓΝΗΣΊΑΣ],
+  Prefectures[Prefectures.ΤΡΙΚΆΛΩΝ],
 ];
 
-provinces[Provinces.AGIOU_OROUS] = [Prefectures[Prefectures.AGIOU_OROUS]];
+provinces[Provinces.ΔΥΤΙΚΉΣ_ΕΛΛΆΔΑΣ] = [
+  Prefectures[Prefectures.ΑΧΑΐΑΣ],
+  Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+  Prefectures[Prefectures.ΗΛΕΊΑΣ],
+];
+
+provinces[Provinces.ΔΥΤΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ] = [
+  Prefectures[Prefectures.ΦΛΏΡΙΝΑΣ],
+  Prefectures[Prefectures.ΓΡΕΒΕΝΏΝ],
+  Prefectures[Prefectures.ΚΑΣΤΟΡΙΆΣ],
+  Prefectures[Prefectures.ΚΟΖΆΝΗΣ],
+];
+
+provinces[Provinces.ΑΓΊΟΥ_ΌΡΟΥΣ] = [Prefectures[Prefectures.ΑΓΊΟΥ_ΌΡΟΥΣ]];
 
 export default provinces;

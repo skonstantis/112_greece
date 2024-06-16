@@ -1,7 +1,7 @@
 /* Author: Sotiris Konstantis */
 
 enum Epikratia {
-    EPIKRATIA
+    ΕΠΙΚΡΆΤΕΙΑ
   }
   
   export default Epikratia;

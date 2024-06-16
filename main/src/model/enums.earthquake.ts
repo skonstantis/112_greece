@@ -1,7 +1,7 @@
 /* Author: Sotiris Konstantis */
 
 enum Earthquake {
-  EARTHQUAKE,
+  ΣΕΙΣΜΙΚΉ_ΔΌΝΗΣΗ,
 }
 
 export default Earthquake;

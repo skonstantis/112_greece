@@ -1,10 +1,10 @@
 /* Author: Sotiris Konstantis */
 
 enum Fire {
-  WILDFIRE,
-  INDUSTRIAL_FIRE,
-  INCREASED_FIRE_RISK,
-  EXPLOSIONS_CAUSED_BY_FIRE,
+  ΔΑΣΙΚΉ_ΠΥΡΚΑΓΙΆ,
+  ΒΙΟΜΗΧΑΝΙΚΉ_ΠΥΡΚΑΓΙΆ,
+  ΑΥΞΗΜΈΝΟΣ_ΚΊΝΔΥΝΟΣ_ΠΥΡΚΑΓΙΆΣ,
+  ΕΚΡΉΞΕΙΣ_ΛΌΓΩ_ΠΥΡΚΑΓΙΆΣ,
 }
 
 export default Fire;

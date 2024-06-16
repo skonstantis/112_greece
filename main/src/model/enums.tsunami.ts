@@ -1,7 +1,7 @@
 /* Author: Sotiris Konstantis */
 
 enum Tsunami {
-  TSUNAMI,
+  ΤΣΟΥΝΆΜΙ,
 }
 
 export default Tsunami;

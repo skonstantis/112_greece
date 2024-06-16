@@ -1,8 +1,8 @@
 /* Author: Sotiris Konstantis */
 
 enum Event {
-    NONE,
-    STORM_DANIEL,
+    ΚΑΝΈΝΑ,
+    ΚΑΚΟΚΑΙΡΊΑ_ΝΤΆΝΙΕΛ,
   }
   
   export default Event;

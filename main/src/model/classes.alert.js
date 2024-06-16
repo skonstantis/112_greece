@@ -62,7 +62,7 @@ export default class Alerts {
 
     for(let i = 0; i < events.length; i++)
     {
-      events[i] = events[i].replace("NONE", "").replaceAll("_", " ").toLowerCase();
+      events[i] = events[i].replace("ΚΑΝΈΝΑ", "").replaceAll("_", " ").toLowerCase();
     }
 
     this.array.push(new Alert(date, categories, types, prefectures, events, text));

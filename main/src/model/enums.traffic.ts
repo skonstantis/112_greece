@@ -1,8 +1,8 @@
 /* Author: Sotiris Konstantis */
 
 enum Traffic {
-    TRAFFIC,
-    ROAD_CLOSURE
+    ΟΔΙΚΉ_ΚΊΝΗΣΗ,
+    ΚΛΕΊΣΙΜΟ_ΔΡΌΜΟΥ
   }
   
   export default Traffic;

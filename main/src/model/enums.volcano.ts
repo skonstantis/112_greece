@@ -1,7 +1,7 @@
 /* Author: Sotiris Konstantis */
 
 enum Volcano {
-  VOLCANIC_ERUPTION,
+  ΗΦΑΙΣΤΙΑΚΉ_ΈΚΡΗΞΗ,
 }
 
 export default Volcano;

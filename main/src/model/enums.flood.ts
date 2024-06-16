@@ -1,9 +1,9 @@
 /* Author: Sotiris Konstantis */
 
 enum Flood {
-  FLOODING,
-  RIVER_OVERFLOW,
-  RIVER_BULWARK_BREAK,
+  ΠΛΗΜΜΎΡΑ,
+  ΥΠΕΡΧΕΊΛΗΣΗ_ΠΟΤΑΜΟΎ,
+  ΣΠΆΣΙΜΟ_ΑΝΑΧΏΜΑΤΟΣ_ΠΟΤΑΜΟΎ,
 }
 
 export default Flood;

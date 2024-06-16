@@ -40,7 +40,7 @@ export default function Item({ alert }) {
         </div>    
         <div className={styles.eventContainer}>
           {alert.events.map((event) => (
-            <Event key={event == null ? "None" : event} event={event} />
+            <Event key={event == null ? "Κανένα" : event} event={event} />
           ))}
         </div>   
       </div>

@@ -1,6 +1,6 @@
 enum Landslides {
-  LANDSLIDES,
-  LANDSLIDE_RISK,
+  ΚΑΤΟΛΙΣΘΉΣΕΙΣ,
+  ΚΊΝΔΥΝΟΣ_ΚΑΤΟΛΙΣΘΉΣΕΩΝ,
 }
 
 export default Landslides;

@@ -1,14 +1,14 @@
 /* Author: Sotiris Konstantis */
 
 enum ExtremeWeather {
-  EXTREME_WEATHER,
-  HEAVY_THUNDERSTORMS,
-  EXTREMELY_HIGH_TEMPERATURES,
-  EXTREMELY_LOW_TEMPERATURES,
-  STRONG_WINDS,
-  HEAVY_SNOW,
-  HEAVY_RAIN,
-  HAIL
+  ΑΚΡΑΊΑ_ΚΑΙΡΙΚΆ_ΦΑΙΝΌΜΕΝΑ,
+  ΙΣΧΥΡΈΣ_ΚΑΤΑΙΓΊΔΕΣ,
+  ΚΎΜΑ_ΚΑΎΣΩΝΑ,
+  ΚΎΜΑ_ΨΎΧΟΥΣ,
+  ΙΣΧΥΡΟΊ_ΆΝΕΜΟΙ,
+  ΙΣΧΥΡΈΣ_ΧΙΟΝΟΠΤΏΣΕΙΣ,
+  ΙΣΧΥΡΈΣ_ΒΡΟΧΟΠΤΏΣΕΙΣ,
+  ΧΑΛΑΖΟΠΤΏΣΕΙΣ,
 }
 
 export default ExtremeWeather;

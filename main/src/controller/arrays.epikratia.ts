@@ -6,21 +6,21 @@ import provinces from "./arrays.provinces.js";
 
 const epikratia: string[][] = [];
 
-epikratia[Epikratia.EPIKRATIA] = [
-  ...provinces[Provinces.AGIOU_OROUS],
-  ...provinces[Provinces.ANATOLIKIS_MAKEDONIAS_KAI_THRAKIS],
-  ...provinces[Provinces.ATTIKIS],
-  ...provinces[Provinces.DITIKIS_ELLADAS],
-  ...provinces[Provinces.DITIKIS_MAKEDONIAS],
-  ...provinces[Provinces.IONION_NISON],
-  ...provinces[Provinces.IPIROU],
-  ...provinces[Provinces.KENTRIKIS_MAKEDONIAS],
-  ...provinces[Provinces.KRITIS],
-  ...provinces[Provinces.NOTIOU_EGEOU],
-  ...provinces[Provinces.PELOPONNISOU],
-  ...provinces[Provinces.STEREAS_ELLADAS],
-  ...provinces[Provinces.THESSALIAS],
-  ...provinces[Provinces.VORIOU_EGEOU],
+epikratia[Epikratia.ΕΠΙΚΡΆΤΕΙΑ] = [
+  ...provinces[Provinces.ΑΓΊΟΥ_ΌΡΟΥΣ],
+  ...provinces[Provinces.ΑΝΑΤΟΛΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ_ΚΑΙ_ΘΡΆΚΗΣ],
+  ...provinces[Provinces.ΑΤΤΙΚΉΣ],
+  ...provinces[Provinces.ΔΥΤΙΚΉΣ_ΕΛΛΆΔΑΣ],
+  ...provinces[Provinces.ΔΥΤΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ],
+  ...provinces[Provinces.ΙΟΝΊΩΝ_ΝΉΣΩΝ],
+  ...provinces[Provinces.ΗΠΕΊΡΟΥ],
+  ...provinces[Provinces.ΚΕΝΤΡΙΚΉΣ_ΜΑΚΕΔΟΝΊΑΣ],
+  ...provinces[Provinces.ΚΡΉΤΗΣ],
+  ...provinces[Provinces.ΝΟΤΊΟΥ_ΑΙΓΑΊΟΥ],
+  ...provinces[Provinces.ΠΕΛΟΠΟΝΝΉΣΟΥ],
+  ...provinces[Provinces.ΣΤΕΡΕΆΣ_ΕΛΛΆΔΑΣ],
+  ...provinces[Provinces.ΘΕΣΣΑΛΊΑΣ],
+  ...provinces[Provinces.ΒΟΡΕΊΟΥ_ΑΙΓΑΊΟΥ],
 ];
 
 export default epikratia;
