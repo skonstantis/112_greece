@@ -7,7 +7,7 @@ import Epikratia from "../model/enums.epikratia.js";
 const provinces: string[][] = [];
 
 provinces[Provinces.ΔΥΤΙΚΉΣ_ΣΤΕΡΕΆΣ] = [
-  Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+  Prefectures[Prefectures.ΑΙΤΩΛΟΑΚΑΡΝΑΝΊΑΣ],
   Prefectures[Prefectures.ΕΥΡΥΤΑΝΊΑΣ],
 ];
 
@@ -111,7 +111,7 @@ provinces[Provinces.ΘΕΣΣΑΛΊΑΣ] = [
 
 provinces[Provinces.ΔΥΤΙΚΉΣ_ΕΛΛΆΔΑΣ] = [
   Prefectures[Prefectures.ΑΧΑΐΑΣ],
-  Prefectures[Prefectures.ΑΙΤΟΛΟΑΚΑΡΝΑΝΊΑΣ],
+  Prefectures[Prefectures.ΑΙΤΩΛΟΑΚΑΡΝΑΝΊΑΣ],
   Prefectures[Prefectures.ΗΛΕΊΑΣ],
 ];
 
