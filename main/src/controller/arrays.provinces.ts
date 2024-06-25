@@ -11,11 +11,15 @@ provinces[Provinces.ΔΥΤΙΚΉΣ_ΣΤΕΡΕΆΣ] = [
   Prefectures[Prefectures.ΕΥΡΥΤΑΝΊΑΣ],
 ];
 
-provinces[Provinces.ΔΥΤΙΚΉΣ_ΠΕΛΟΠΟΝΉΣΟΥ] = [
+provinces[Provinces.ΔΥΤΙΚΉΣ_ΠΕΛΟΠΟΝΝΉΣΟΥ] = [
   Prefectures[Prefectures.ΗΛΕΊΑΣ],
   Prefectures[Prefectures.ΜΕΣΣΗΝΊΑΣ],
 ];
 
+provinces[Provinces.ΝΟΤΙΟΑΝΑΤΟΛΙΚΉΣ_ΠΕΛΟΠΟΝΝΉΣΟΥ] = [
+  Prefectures[Prefectures.ΑΡΓΟΛΊΔΑΣ],
+  Prefectures[Prefectures.ΛΑΚΩΝΊΑΣ],
+];
 
 provinces[Provinces.ΒΟΡΕΊΟΥ_ΙΟΝΊΟΥ] = [
   Prefectures[Prefectures.ΚΈΡΚΥΡΑΣ],
